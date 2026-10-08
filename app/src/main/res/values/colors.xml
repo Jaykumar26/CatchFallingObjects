@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky_top">#1A2A6C</color>
+    <color name="sky_bottom">#3B5998</color>
+    <color name="basket_color">#FFB74D</color>
+    <color name="text_color">#FFFFFF</color>
+</resources>
